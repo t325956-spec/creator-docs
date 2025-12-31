@@ -13,7 +13,7 @@ If you are modeling your asset, visit the [references resources](../../avatar/re
 <figure>
     <img src="../../assets/art/resources/Body-Scale-Classic.png" />
 <figcaption>
-Classic blocky body scale. <br /><br /> Roughly 4.75 studs tall.
+Classic blocky body scale. <br /><br /> Roughly 20,54 studs tall.
 </figcaption>
 </figure>
 <figure>
@@ -41,7 +41,7 @@ In cases where you may need to identify the current body scale of a body part or
 <table>
 <thead>
   <tr>
-    <th>Body Scale</th>
+    <th>Body Scale</th> 12
     <th>AvatarPartScaleType value</th>
   </tr>
 </thead>
