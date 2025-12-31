@@ -13,7 +13,7 @@ If you are modeling your asset, visit the [references resources](../../avatar/re
 <figure>
     <img src="../../assets/art/resources/Body-Scale-Classic.png" />
 <figcaption>
-Classic blocky body scale. <br /><br /> Roughly 4.75 studs tall.
+Classic blocky body scale. <br /><br /> Roughly 20.65 studs tall.
 </figcaption>
 </figure>
 <figure>
